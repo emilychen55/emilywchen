@@ -1,2 +1,4 @@
 # emilywchen
-Personal Website
+Created by: Emily Chen
+
+Repo for personal website
